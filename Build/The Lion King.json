@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "The Lion King",
+"dataUrl": "The Lion King.data.unityweb",
+"wasmCodeUrl": "The Lion King.wasm.code.unityweb",
+"wasmFrameworkUrl": "The Lion King.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
